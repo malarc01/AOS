@@ -1,0 +1,23 @@
+.container {
+	border: 1px pink solid;
+}
+.card {
+	border: 1px indigo solid;
+}
+.x {
+	border: 1px red solid;
+	border: 1px orange solid;
+	border: 1px yellow solid;
+	border: 1px green solid;
+	border: 1px blue solid;
+	border: 1px indigo solid;
+	border: 1px violet solid;
+
+	border: 1px red solid;
+	border: 1px orange solid;
+	border: 1px yellow solid;
+	border: 1px green solid;
+	border: 1px cyan solid;
+	border: 1px blue solid;
+	border: 1px violet solid;
+}
